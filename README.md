@@ -28,9 +28,9 @@ Everyone is encouraged to have a selfhack instance. As such, this instance has d
 
 Well, just start with:
 
- $ git clone xxx
- $ cd social-self-hack
- $ meteor
+    $ git clone xxx
+    $ cd social-self-hack
+    $ meteor
 
 and hack on and enjoy.
 
